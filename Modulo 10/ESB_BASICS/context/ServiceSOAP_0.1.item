@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_kGHgkCBUEe-zXNuPCahP8Q" confirmationNeeded="false" name="Training">
+    <contextParameter xmi:id="_kGHgkSBUEe-zXNuPCahP8Q" comment="" name="server" prompt="server?" promptNeeded="false" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_kGHgkiBUEe-zXNuPCahP8Q" comment="" name="port" prompt="port?" promptNeeded="false" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_kGHgkyBUEe-zXNuPCahP8Q" comment="" name="database" prompt="database?" promptNeeded="false" type="id_String" value="training"/>
+    <contextParameter xmi:id="_kGHglCBUEe-zXNuPCahP8Q" comment="" name="login" prompt="login?" promptNeeded="false" type="id_String" value="root"/>
+    <contextParameter xmi:id="_kGHglSBUEe-zXNuPCahP8Q" comment="" name="pass" prompt="pass?" promptNeeded="false" type="id_String" value="root"/>
+    <contextParameter xmi:id="_kGHgliBUEe-zXNuPCahP8Q" comment="" name="param" prompt="param?" promptNeeded="false" type="id_String" value="&quot;serverTimezone=America/Argentina/Buenos_Aires&quot;"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_kGHglyBUEe-zXNuPCahP8Q" confirmationNeeded="false" name="Production">
+    <contextParameter xmi:id="_kGHgmCBUEe-zXNuPCahP8Q" comment="" name="server" prompt="server?" promptNeeded="false" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_kGHgmSBUEe-zXNuPCahP8Q" comment="" name="port" prompt="port?" promptNeeded="false" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_kGHgmiBUEe-zXNuPCahP8Q" comment="" name="database" prompt="database?" promptNeeded="false" type="id_String" value="training"/>
+    <contextParameter xmi:id="_kGHgmyBUEe-zXNuPCahP8Q" comment="" name="login" prompt="login?" promptNeeded="false" type="id_String" value="root"/>
+    <contextParameter xmi:id="_kGHgnCBUEe-zXNuPCahP8Q" comment="" name="pass" prompt="pass?" promptNeeded="false" type="id_String" value="root"/>
+    <contextParameter xmi:id="_kGHgnSBUEe-zXNuPCahP8Q" comment="" name="param" prompt="param?" promptNeeded="false" type="id_String" value="&quot;serverTimezone=America/Argentina/Buenos_Aires&quot;"/>
+  </talendfile:ContextType>
+</xmi:XMI>

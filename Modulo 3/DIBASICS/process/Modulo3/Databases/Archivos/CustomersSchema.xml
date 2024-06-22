@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema>
+    <column comment="" default="" key="false" label="Id" length="3"
+        nullable="false" originalDbColumnName="Id" originalLength="3"
+        pattern="" precision="-1" talendType="id_Integer" type=""/>
+    <column comment="" default="" key="false" label="First" length="15"
+        nullable="true" originalDbColumnName="First" originalLength="15"
+        pattern="" precision="-1" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="Last" length="15"
+        nullable="true" originalDbColumnName="Last" originalLength="15"
+        pattern="" precision="-1" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="Number" length="5"
+        nullable="true" originalDbColumnName="Number" originalLength="1"
+        pattern="" precision="-1" talendType="id_Integer" type=""/>
+    <column comment="" default="" key="false" label="Street" length="21"
+        nullable="true" originalDbColumnName="Street"
+        originalLength="20" pattern="" precision="-1"
+        talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="City" length="21"
+        nullable="true" originalDbColumnName="City" originalLength="20"
+        pattern="" precision="-1" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="State" length="2"
+        nullable="true" originalDbColumnName="State" originalLength="2"
+        pattern="" precision="-1" talendType="id_String" type=""/>
+</schema>

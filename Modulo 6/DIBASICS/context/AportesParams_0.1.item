@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_l3jUMB7vEe-oHZytJbiTFw" confirmationNeeded="false" name="Development">
+    <contextParameter xmi:id="_l4WlcB7vEe-oHZytJbiTFw" comment="" name="id" prompt="id?" promptNeeded="false" type="id_Integer" value="0"/>
+    <contextParameter xmi:id="_l4WlcR7vEe-oHZytJbiTFw" comment="" name="dataset_fuente" prompt="dataset_fuente?" promptNeeded="false" type="id_String" value="&quot;&quot;"/>
+    <contextParameter xmi:id="_l4Wlch7vEe-oHZytJbiTFw" comment="" name="series_cant" prompt="series_cant?" promptNeeded="false" type="id_Integer" value="0"/>
+    <contextParameter xmi:id="_l4Wlcx7vEe-oHZytJbiTFw" comment="" name="valores_cant" prompt="valores_cant?" promptNeeded="false" type="id_Integer" value="0"/>
+    <contextParameter xmi:id="_l4WldB7vEe-oHZytJbiTFw" comment="" name="fecha_primer_valor" prompt="fecha_primer_valor?" promptNeeded="false" type="id_String" value="&quot;&quot;"/>
+    <contextParameter xmi:id="_l4WldR7vEe-oHZytJbiTFw" comment="" name="fecha_ultimo_valor" prompt="fecha_ultimo_valor?" promptNeeded="false" type="id_String" value="&quot;&quot;"/>
+    <contextParameter xmi:id="_dAcO8B8CEe-oHZytJbiTFw" comment="" name="PathFooter" prompt="PathFooter?" promptNeeded="false" type="id_String" value="C:\StudentFiles\DIBasics\Modulo6\Desafio\dev\fuentes\aportes\"/>
+    <contextParameter xmi:id="_dAcO8R8CEe-oHZytJbiTFw" comment="" name="PathFuentes" prompt="PathFuentes?" promptNeeded="false" type="id_String" value="C:\StudentFiles\DIBasics\Modulo6\Desafio\fuentes.csv"/>
+    <contextParameter xmi:id="_dAcO8h8CEe-oHZytJbiTFw" comment="" name="PathMove" prompt="PathMove?" promptNeeded="false" type="id_String" value="C:\StudentFiles\DIBasics\Modulo6\Desafio\dev\procesados\"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_pZ3NQB8DEe-oHZytJbiTFw" confirmationNeeded="false" name="Production">
+    <contextParameter xmi:id="_pZ3NQR8DEe-oHZytJbiTFw" comment="" name="id" prompt="id?" promptNeeded="false" type="id_Integer" value="0"/>
+    <contextParameter xmi:id="_pZ3NQh8DEe-oHZytJbiTFw" comment="" name="dataset_fuente" prompt="dataset_fuente?" promptNeeded="false" type="id_String" value="&quot;&quot;"/>
+    <contextParameter xmi:id="_pZ3NQx8DEe-oHZytJbiTFw" comment="" name="series_cant" prompt="series_cant?" promptNeeded="false" type="id_Integer" value="0"/>
+    <contextParameter xmi:id="_pZ3NRB8DEe-oHZytJbiTFw" comment="" name="valores_cant" prompt="valores_cant?" promptNeeded="false" type="id_Integer" value="0"/>
+    <contextParameter xmi:id="_pZ3NRR8DEe-oHZytJbiTFw" comment="" name="fecha_primer_valor" prompt="fecha_primer_valor?" promptNeeded="false" type="id_String" value="&quot;&quot;"/>
+    <contextParameter xmi:id="_pZ3NRh8DEe-oHZytJbiTFw" comment="" name="fecha_ultimo_valor" prompt="fecha_ultimo_valor?" promptNeeded="false" type="id_String" value="&quot;&quot;"/>
+    <contextParameter xmi:id="_pZ3NRx8DEe-oHZytJbiTFw" comment="" name="PathFooter" prompt="PathFooter?" promptNeeded="false" type="id_String" value="C:\StudentFiles\DIBasics\Modulo6\Desafio\prod\fuentes\aportes\"/>
+    <contextParameter xmi:id="_pZ3NSB8DEe-oHZytJbiTFw" comment="" name="PathFuentes" prompt="PathFuentes?" promptNeeded="false" type="id_String" value="C:\StudentFiles\DIBasics\Modulo6\Desafio\fuentes.csv"/>
+    <contextParameter xmi:id="_pZ3NSR8DEe-oHZytJbiTFw" comment="" name="PathMove" prompt="PathMove?" promptNeeded="false" type="id_String" value="C:\StudentFiles\DIBasics\Modulo6\Desafio\prod\procesados\"/>
+  </talendfile:ContextType>
+</xmi:XMI>

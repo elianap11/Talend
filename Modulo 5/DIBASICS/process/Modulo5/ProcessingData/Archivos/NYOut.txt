@@ -1,0 +1,9 @@
+Name,Number,Street,City,State,StateName
+Theodore Clinton,12292,San Marcos,Bismarck,NY, New York
+Calvin Adams,52386,Lake Tahoe Blvd.,Montgomery,NY, New York
+Martin Johnson,32782,Padre Boulevard,Springfield,NY, New York
+Abraham Tyler,89260,Carpinteria North,Annapolis,NY, New York
+Herbert Coolidge,65573,Cabrillo Highway,Salt Lake City,NY, New York
+Gerald Eisenhower,12903,Jones Road,Albany,NY, New York
+Abraham Wilson,83959,Hutchinson Rd,Nashville,NY, New York
+Rutherford Harding,46743,Steele Lane,Boston,NY, New York

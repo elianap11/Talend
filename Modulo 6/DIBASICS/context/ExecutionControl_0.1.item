@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_1toLQBh8Ee-kKJxDS9mJYw" confirmationNeeded="false" name="Development">
+    <contextParameter xmi:id="_1toLQRh8Ee-kKJxDS9mJYw" comment="" name="DBControl_Login" prompt="DBControl_Login?" promptNeeded="false" type="id_String" value="root"/>
+    <contextParameter xmi:id="_1toLQhh8Ee-kKJxDS9mJYw" comment="" name="DBControl_Database" prompt="DBControl_Database?" promptNeeded="false" type="id_String" value="training"/>
+    <contextParameter xmi:id="_1toLQxh8Ee-kKJxDS9mJYw" comment="" name="DBControl_Port" prompt="DBControl_Port?" promptNeeded="false" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_1toLRBh8Ee-kKJxDS9mJYw" comment="" name="DBControl_Password" prompt="DBControl_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:NIyLRM6/zXFd5w96HSsFKleG55SomF8+PzLpclOHaUs="/>
+    <contextParameter xmi:id="_1toLRRh8Ee-kKJxDS9mJYw" comment="" name="DBControl_Server" prompt="DBControl_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_1toLRhh8Ee-kKJxDS9mJYw" comment="" name="DBControl_AdditionalParams" prompt="DBControl_AdditionalParams?" promptNeeded="false" type="id_String" value="&quot;serverTimezone=America/Argentina/Buenos_Aires&quot;"/>
+    <contextParameter xmi:id="_1toLRxh8Ee-kKJxDS9mJYw" comment="" name="StagingDirectory" prompt="StagingDirectory?" promptNeeded="false" type="id_Directory" value="C:/StudentFiles/DIBasics/Modulo6/ExecutionControl/Staging/"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_1toLSBh8Ee-kKJxDS9mJYw" confirmationNeeded="false" name="Production">
+    <contextParameter xmi:id="_1toLSRh8Ee-kKJxDS9mJYw" comment="" name="DBControl_Login" prompt="DBControl_Login?" promptNeeded="false" type="id_String" value="root"/>
+    <contextParameter xmi:id="_1toLShh8Ee-kKJxDS9mJYw" comment="" name="DBControl_Database" prompt="DBControl_Database?" promptNeeded="false" type="id_String" value="production"/>
+    <contextParameter xmi:id="_1toLSxh8Ee-kKJxDS9mJYw" comment="" name="DBControl_Port" prompt="DBControl_Port?" promptNeeded="false" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_1toLTBh8Ee-kKJxDS9mJYw" comment="" name="DBControl_Password" prompt="DBControl_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:/AE6XC2SjYqGY0LFdWBpG4C/BPsiogwzboeUXC3892M="/>
+    <contextParameter xmi:id="_1toLTRh8Ee-kKJxDS9mJYw" comment="" name="DBControl_Server" prompt="DBControl_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_1toLThh8Ee-kKJxDS9mJYw" comment="" name="DBControl_AdditionalParams" prompt="DBControl_AdditionalParams?" promptNeeded="false" type="id_String" value="&quot;serverTimezone=America/Argentina/Buenos_Aires&quot;"/>
+    <contextParameter xmi:id="_1toLTxh8Ee-kKJxDS9mJYw" comment="" name="StagingDirectory" prompt="StagingDirectory?" promptNeeded="false" type="id_Directory" value="C:/StudentFiles/DIBasics/Modulo6/ExecutionControl/Staging/"/>
+  </talendfile:ContextType>
+</xmi:XMI>

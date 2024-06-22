@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_7xlggBOUEe-KMr2iL-rwfg" confirmationNeeded="false" name="Development">
+  <contextParameter xmi:id="_7xlggROUEe-KMr2iL-rwfg" comment="" name="DBConnect_Password" prompt="DBConnect_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:AZCedWvngRS3+bk8RvCBDKQmyXFNXv5iAl0z3cGMzi8="/>
+  <contextParameter xmi:id="_7xlgghOUEe-KMr2iL-rwfg" comment="" name="DBConnect_Port" prompt="DBConnect_Port?" promptNeeded="false" type="id_String" value="&quot;3306&quot;"/>
+  <contextParameter xmi:id="_7xlggxOUEe-KMr2iL-rwfg" comment="" name="DBConnect_Database" prompt="DBConnect_Database?" promptNeeded="false" type="id_String" value="&quot;films&quot;"/>
+  <contextParameter xmi:id="_7xlghBOUEe-KMr2iL-rwfg" comment="" name="DBConnect_Server" prompt="DBConnect_Server?" promptNeeded="false" type="id_String" value="&quot;localhost&quot;"/>
+  <contextParameter xmi:id="_7xlghROUEe-KMr2iL-rwfg" comment="" name="DBConnect_AdditionalParams" prompt="DBConnect_AdditionalParams?" promptNeeded="false" type="id_String" value="&quot;serverTimezone=America/Argentina/Buenos_Aires&quot;"/>
+  <contextParameter xmi:id="_7xlghhOUEe-KMr2iL-rwfg" comment="" name="DBConnect_Login" prompt="DBConnect_Login?" promptNeeded="false" type="id_String" value="&quot;root&quot;"/>
+</talendfile:ContextType>

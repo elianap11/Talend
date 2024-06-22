@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_ykE8oBgJEe-0qui3atdmzQ" confirmationNeeded="false" name="training">
+  <contextParameter xmi:id="_ykFjsBgJEe-0qui3atdmzQ" comment="" name="creditoCSV" prompt="creditoCSV?" promptNeeded="false" type="id_String" value="C:/StudentFiles/DIBasics/Modulo5/Desafio/credito-mensual-2022.csv"/>
+  <contextParameter xmi:id="_TTCQsBgLEe-0qui3atdmzQ" comment="" name="creditoNoComprometido" prompt="creditoNoComprometido?" promptNeeded="false" type="id_String" value="C:/StudentFiles/DIBasics/Modulo5/Desafio/CreditoNoComprometido.csv"/>
+  <contextParameter xmi:id="_TTCQsRgLEe-0qui3atdmzQ" comment="" name="creditoRestante" prompt="creditoRestante?" promptNeeded="false" type="id_String" value="C:/StudentFiles/DIBasics/Modulo5/Desafio/CreditoRestante.json"/>
+  <contextParameter xmi:id="_TTCQshgLEe-0qui3atdmzQ" comment="" name="clasificadorEconomico" prompt="clasificadorEconomico?" promptNeeded="false" type="id_String" value="C:/StudentFiles/DIBasics/Modulo5/Desafio/ClasificadorEconomico.txt"/>
+</talendfile:ContextType>

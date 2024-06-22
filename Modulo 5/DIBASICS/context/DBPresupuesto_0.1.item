@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_vg1PEBWNEe-b3qM4C9GSGg" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_vg1PERWNEe-b3qM4C9GSGg" comment="" name="DBPresupuesto_Password" prompt="DBPresupuesto_Password?" promptNeeded="false" type="id_Password" value="enc:system.encryption.key.v1:Wt4PO7ZDEYN2e1r1VkkIUsYzV6D4py8oYmeRmp+ETZs="/>
+  <contextParameter xmi:id="_vg1PEhWNEe-b3qM4C9GSGg" comment="" name="DBPresupuesto_AdditionalParams" prompt="DBPresupuesto_AdditionalParams?" promptNeeded="false" type="id_String" value="serverTimezone=America/Argentina/Buenos_Aires"/>
+  <contextParameter xmi:id="_vg1PExWNEe-b3qM4C9GSGg" comment="" name="DBPresupuesto_Server" prompt="DBPresupuesto_Server?" promptNeeded="false" type="id_String" value="localhost"/>
+  <contextParameter xmi:id="_vg1PFBWNEe-b3qM4C9GSGg" comment="" name="DBPresupuesto_Database" prompt="DBPresupuesto_Database?" promptNeeded="false" type="id_String" value="presupuesto"/>
+  <contextParameter xmi:id="_vg1PFRWNEe-b3qM4C9GSGg" comment="" name="DBPresupuesto_Port" prompt="DBPresupuesto_Port?" promptNeeded="false" type="id_String" value="3306"/>
+  <contextParameter xmi:id="_vg1PFhWNEe-b3qM4C9GSGg" comment="" name="DBPresupuesto_Login" prompt="DBPresupuesto_Login?" promptNeeded="false" type="id_String" value="root"/>
+</talendfile:ContextType>

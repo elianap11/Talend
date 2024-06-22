@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_wHMN8BPsEe-KMr2iL-rwfg" confirmationNeeded="false" name="Production">
+    <contextParameter xmi:id="_wHMN8RPsEe-KMr2iL-rwfg" comment="" name="Limit" prompt="Limit?" promptNeeded="false" type="id_String" value="LIMIT 10"/>
+    <contextParameter xmi:id="_wHMN8hPsEe-KMr2iL-rwfg" comment="" name="Order" prompt="Order?" promptNeeded="false" type="id_String" value="ASC"/>
+    <contextParameter xmi:id="_--s_UBPtEe-KMr2iL-rwfg" comment="" name="FilePath" prompt="FilePath?" promptNeeded="false" type="id_String" value="C:\StudentFiles\DIBasics\Modulo4\Ejercicio1\Prod\"/>
+    <contextParameter xmi:id="_cWc8cBPuEe-KMr2iL-rwfg" comment="" name="FileXML" prompt="FileXML?" promptNeeded="false" type="id_String" value="Customers_retail_XML_production.xml"/>
+    <contextParameter xmi:id="_cWc8cRPuEe-KMr2iL-rwfg" comment="" name="FileJSON" prompt="FileJSON?" promptNeeded="false" type="id_String" value="CustomersJSON_production.json"/>
+    <contextParameter xmi:id="_1kerIBPuEe-KMr2iL-rwfg" comment="" name="TagXML" prompt="TagXML?" promptNeeded="false" type="id_String" value="OnlineShopProduction"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_wHMN8xPsEe-KMr2iL-rwfg" confirmationNeeded="false" name="Test">
+    <contextParameter xmi:id="_wHMN9BPsEe-KMr2iL-rwfg" comment="" name="Limit" prompt="Limit?" promptNeeded="false" type="id_String" value="LIMIT 10"/>
+    <contextParameter xmi:id="_wHMN9RPsEe-KMr2iL-rwfg" comment="" name="Order" prompt="Order?" promptNeeded="false" type="id_String" value="DESC"/>
+    <contextParameter xmi:id="_--s_URPtEe-KMr2iL-rwfg" comment="" name="FilePath" prompt="FilePath?" promptNeeded="false" type="id_String" value="C:\StudentFiles\DIBasics\Modulo4\Ejercicio1\Test\"/>
+    <contextParameter xmi:id="_cWc8chPuEe-KMr2iL-rwfg" comment="" name="FileXML" prompt="FileXML?" promptNeeded="false" type="id_String" value="Customers_retail_XML_training.xml"/>
+    <contextParameter xmi:id="_cWc8cxPuEe-KMr2iL-rwfg" comment="" name="FileJSON" prompt="FileJSON?" promptNeeded="false" type="id_String" value="CustomersJSON_training.json"/>
+    <contextParameter xmi:id="_1kerIRPuEe-KMr2iL-rwfg" comment="" name="TagXML" prompt="TagXML?" promptNeeded="false" type="id_String" value="OnlineShopTraining"/>
+  </talendfile:ContextType>
+</xmi:XMI>

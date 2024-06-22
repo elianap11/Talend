@@ -1,0 +1,22 @@
+{
+	"ShopSales": [
+		{
+			"ShopName": "Shop1",
+			"Quantity": "790",
+			"CustomerName": "Acme Chemical",
+			"Product": "Product 34"
+		},
+		{
+			"ShopName": "Shop1",
+			"Quantity": "886",
+			"CustomerName": "Truck-X Repair",
+			"Product": "Product 36"
+		},
+		{
+			"ShopName": "Shop1",
+			"Quantity": "972",
+			"CustomerName": "Lee Stairworks",
+			"Product": "Product 47"
+		}
+	]
+}

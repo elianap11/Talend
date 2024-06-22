@@ -1,0 +1,22 @@
+Name,Number,Street,City,State,StateName
+Warren McKinley,82589,Westside Freeway,Concord,AK, Alaska
+Jimmy Polk,76143,Richmond Hill,Salt Lake City,AK, Alaska
+Zachary Tyler,45040,Santa Rosa North,Carson City,AK, Alaska
+Herbert Grant,90635,North Ventu Park Road,Columbus,AK, Alaska
+John Harrison,86745,San Marcos,Annapolis,AK, Alaska
+Andrew Fillmore,96878,Greenwood Road,Saint Paul,AK, Alaska
+George Jefferson,95054,Padre Boulevard,Denver,AK, Alaska
+John Adams,49993,El Camino Real,Phoenix,AK, Alaska
+Andrew McKinley,45619,San Luis Obispo North,Bismarck,AK, Alaska
+George Coolidge,67507,Santa Monica Road,Columbus,AK, Alaska
+Zachary Pierce,91312,Santa Ana Freeway,Annapolis,AK, Alaska
+Lyndon Harding,92517,Burnett Road,Little Rock,AK, Alaska
+Bill Eisenhower,56724,Timberlane Drive,Jackson,AK, Alaska
+Rutherford Madison,16987,Bailard Avenue,Austin,AK, Alaska
+Calvin Taft,36327,North Preisker Lane,Jefferson City,AK, Alaska
+George Truman,88678,N Harrison St,Jefferson City,AK, Alaska
+Benjamin Reagan,35525,North Ventu Park Road,Cheyenne,AK, Alaska
+Richard Coolidge,53443,Cleveland Ave.,Charleston,AK, Alaska
+James Ford,78424,Erringer Road,Jackson,AK, Alaska
+William Buchanan,86382,Bayshore Freeway,Raleigh,AK, Alaska
+Richard Madison,55838,Monroe Street,Santa Fe,AK, Alaska

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema>
+    <column comment="" default="" key="false" label="Id" length="10"
+        nullable="false" originalDbColumnName="Id" originalLength="10"
+        pattern="" precision="-1" talendType="id_Integer" type=""/>
+    <column comment="" default="" key="false" label="Provincia" length="50"
+        nullable="true" originalDbColumnName="Provincia" originalLength="50"
+        pattern="" precision="-1" talendType="id_String" type=""/>
+    <column comment="" default="" key="false" label="Nombre" length="100"
+        nullable="true" originalDbColumnName="Nombre" originalLength="100"
+        pattern="" precision="-1" talendType="id_String" type=""/>
+</schema>

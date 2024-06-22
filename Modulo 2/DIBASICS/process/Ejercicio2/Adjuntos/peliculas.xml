@@ -1,0 +1,22 @@
+<peliculas>
+    <pelicula>
+        <nombre>El exorcista</nombre>
+        <anio_creacion>1973</anio_creacion>
+    </pelicula>
+    <pelicula>
+        <nombre>El resplandor</nombre>
+        <anio_creacion>1980</anio_creacion>
+    </pelicula>
+    <pelicula>
+        <nombre>La noche de los muertos vivientes</nombre>
+        <anio_creacion>1968</anio_creacion>
+    </pelicula>
+    <pelicula>
+        <nombre>El proyecto de la bruja de Blair</nombre>
+        <anio_creacion>1999</anio_creacion>
+    </pelicula>
+    <pelicula>
+        <nombre>El orfanato</nombre>
+        <anio_creacion>2007</anio_creacion>
+    </pelicula>
+</peliculas>

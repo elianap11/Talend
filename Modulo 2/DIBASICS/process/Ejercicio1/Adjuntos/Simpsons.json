@@ -1,0 +1,44 @@
+{
+  "Personajes": [
+    {
+      "nombre": "Homer",
+      "apellido": "Simpson"
+    },
+    {
+      "nombre": "Marge",
+      "apellido": "Simpson"
+    },
+    {
+      "nombre": "Bart",
+      "apellido": "Simpson"
+    },
+    {
+      "nombre": "Lisa",
+      "apellido": "Simpson"
+    },
+    {
+      "nombre": "Maggie",
+      "apellido": "Simpson"
+    },
+    {
+      "nombre": "Abraham",
+      "apellido": "Simpson"
+    },
+    {
+      "nombre": "Ned",
+      "apellido": "Flanders"
+    },
+    {
+      "nombre": "Maude",
+      "apellido": "Flanders"
+    },
+    {
+      "nombre": "Montgomery",
+      "apellido": "Burns"
+    },
+    {
+      "nombre": "Waylon",
+      "apellido": "Smithers"
+    }
+  ]
+}

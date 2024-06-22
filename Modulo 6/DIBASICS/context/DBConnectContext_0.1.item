@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_7xlggBOUEe-KMr2iL-rwfg" confirmationNeeded="false" name="Development">
+    <contextParameter xmi:id="_7xlggROUEe-KMr2iL-rwfg" comment="" name="DBConnect_Password" prompt="DBConnect_Password?" promptNeeded="false" repositoryContextId="_GAUWkB4jEe-KfbKAUOHZnQ" type="id_Password" value="enc:system.encryption.key.v1:7vxTl0yCC0Mran/09LMOo75vSZhCibp7T63z5OXTBLQ="/>
+    <contextParameter xmi:id="_7xlgghOUEe-KMr2iL-rwfg" comment="" name="DBConnect_Port" prompt="DBConnect_Port?" promptNeeded="false" repositoryContextId="_GAUWkB4jEe-KfbKAUOHZnQ" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_7xlggxOUEe-KMr2iL-rwfg" comment="" name="DBConnect_Database" prompt="DBConnect_Database?" promptNeeded="false" repositoryContextId="_GAUWkB4jEe-KfbKAUOHZnQ" type="id_String" value="training"/>
+    <contextParameter xmi:id="_7xlghBOUEe-KMr2iL-rwfg" comment="" name="DBConnect_Server" prompt="DBConnect_Server?" promptNeeded="false" repositoryContextId="_GAUWkB4jEe-KfbKAUOHZnQ" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_7xlghROUEe-KMr2iL-rwfg" comment="" name="DBConnect_AdditionalParams" prompt="DBConnect_AdditionalParams?" promptNeeded="false" repositoryContextId="_GAUWkB4jEe-KfbKAUOHZnQ" type="id_String" value="&quot;serverTimezone=America/Argentina/Buenos_Aires&quot;"/>
+    <contextParameter xmi:id="_7xlghhOUEe-KMr2iL-rwfg" comment="" name="DBConnect_Login" prompt="DBConnect_Login?" promptNeeded="false" repositoryContextId="_GAUWkB4jEe-KfbKAUOHZnQ" type="id_String" value="root"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_EYDAABOVEe-KMr2iL-rwfg" confirmationNeeded="false" name="Production">
+    <contextParameter xmi:id="_EYDAAROVEe-KMr2iL-rwfg" comment="" name="DBConnect_Password" prompt="DBConnect_Password?" promptNeeded="false" repositoryContextId="_GAUWkB4jEe-KfbKAUOHZnQ" type="id_Password" value="enc:system.encryption.key.v1:T+ZLKNIR3oU9iZketVrICy3JilSoNj3hwcnD77qjYis="/>
+    <contextParameter xmi:id="_EYDAAhOVEe-KMr2iL-rwfg" comment="" name="DBConnect_Port" prompt="DBConnect_Port?" promptNeeded="false" repositoryContextId="_GAUWkB4jEe-KfbKAUOHZnQ" type="id_String" value="3306"/>
+    <contextParameter xmi:id="_EYDAAxOVEe-KMr2iL-rwfg" comment="" name="DBConnect_Database" prompt="DBConnect_Database?" promptNeeded="false" repositoryContextId="_GAUWkB4jEe-KfbKAUOHZnQ" type="id_String" value="training"/>
+    <contextParameter xmi:id="_EYDABBOVEe-KMr2iL-rwfg" comment="" name="DBConnect_Server" prompt="DBConnect_Server?" promptNeeded="false" repositoryContextId="_GAUWkB4jEe-KfbKAUOHZnQ" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_EYDABROVEe-KMr2iL-rwfg" comment="" name="DBConnect_AdditionalParams" prompt="DBConnect_AdditionalParams?" promptNeeded="false" repositoryContextId="_GAUWkB4jEe-KfbKAUOHZnQ" type="id_String" value="&quot;serverTimezone=America/Argentina/Buenos_Aires&quot;"/>
+    <contextParameter xmi:id="_EYDABhOVEe-KMr2iL-rwfg" comment="" name="DBConnect_Login" prompt="DBConnect_Login?" promptNeeded="false" repositoryContextId="_GAUWkB4jEe-KfbKAUOHZnQ" type="id_String" value="root"/>
+  </talendfile:ContextType>
+</xmi:XMI>

@@ -1,0 +1,20 @@
+<root>
+	<row>
+		<ShopName>Shop1</ShopName>
+		<Quantity>790</Quantity>
+		<CustomerName>Acme Chemical</CustomerName>
+		<Product>Product 34</Product>
+	</row>
+	<row>
+		<ShopName>Shop1</ShopName>
+		<Quantity>886</Quantity>
+		<CustomerName>Truck-X Repair</CustomerName>
+		<Product>Product 36</Product>
+	</row>
+	<row>
+		<ShopName>Shop1</ShopName>
+		<Quantity>972</Quantity>
+		<CustomerName>Lee Stairworks</CustomerName>
+		<Product>Product 47</Product>
+	</row>
+</root>

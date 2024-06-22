@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_tm1zQBP7Ee-KMr2iL-rwfg" confirmationNeeded="false" name="Production">
+    <contextParameter xmi:id="_tm1zQRP7Ee-KMr2iL-rwfg" comment="Select the number of rows" name="LimitMil" prompt="LimitMil?" promptNeeded="false" type="id_String" value="LIMIT 1000"/>
+    <contextParameter xmi:id="_E16h8BP8Ee-KMr2iL-rwfg" comment="" name="Ambiente" prompt="Ambiente?" promptNeeded="false" type="id_String" value="Production"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_tm1zQhP7Ee-KMr2iL-rwfg" confirmationNeeded="false" name="Test">
+    <contextParameter xmi:id="_tm1zQxP7Ee-KMr2iL-rwfg" comment="Select the number of rows" name="LimitMil" prompt="LimitMil?" promptNeeded="false" type="id_String" value="LIMIT 1000"/>
+    <contextParameter xmi:id="_E16h8RP8Ee-KMr2iL-rwfg" comment="" name="Ambiente" prompt="Ambiente?" promptNeeded="false" type="id_String" value="Training"/>
+  </talendfile:ContextType>
+</xmi:XMI>

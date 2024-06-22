@@ -1,0 +1,28 @@
+Name,Number,Street,City,State,StateName
+Thomas Coolidge,63489,Lindbergh Blvd,Springfield,CA, California
+Harry Ford,97249,Monroe Street,Salt Lake City,CA, California
+Andrew Taylor,29886,Padre Boulevard,Madison,CA, California
+Benjamin Jefferson,82077,Carpinteria North,Sacramento,CA, California
+Calvin Washington,50742,Richmond Hill,Charleston,CA, California
+Benjamin Ford,27921,Carpinteria Avenue,Providence,CA, California
+Calvin Pierce,41962,Santa Rosa North,Juneau,CA, California
+Woodrow Clinton,30587,San Diego Freeway,Topeka,CA, California
+George Adams,40011,South Highway,Concord,CA, California
+Dwight Pierce,24382,North Atherton Street,Providence,CA, California
+Jimmy Coolidge,19658,North Ventu Park Road,Sacramento,CA, California
+Richard Carter,42127,Carpinteria Avenue,Columbia,CA, California
+Herbert Hoover,93826,N Harrison St,Santa Fe,CA, California
+Herbert Hoover,86542,East Calle Primera,Harrisburg,CA, California
+Chester Quincy,38921,Santa Monica Road,Des Moines,CA, California
+Herbert Washington,71351,Padre Boulevard,Indianapolis,CA, California
+Thomas Roosevelt,47330,East Fry Blvd.,Carson City,CA, California
+Thomas Reagan,76890,Fontaine Road,Jackson,CA, California
+Calvin Harrison,17512,Santa Monica Road,Baton Rouge,CA, California
+Gerald Adams,65044,Santa Ana Freeway,Albany,CA, California
+Franklin Johnson,65748,East Calle Primera,Indianapolis,CA, California
+Ulysses Taft,80435,Castillo Drive,Dover,CA, California
+Theodore Wilson,18980,Harry S Truman Blvd,Hartford,CA, California
+John Johnson,64872,Erringer Road,Olympia,CA, California
+John Clinton,42059,Santa Ana Freeway,Columbus,CA, California
+Thomas Fillmore,26120,Jean de la Fontaine,Little Rock,CA, California
+Rutherford Polk,99837,Santa Monica Road,Boise,CA, California

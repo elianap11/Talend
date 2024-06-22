@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:Services="http://www.talend.org/Services">
+  <Services:ServiceConnection xmi:id="_QR3dYSHdEe-p_Mfs11DzrQ" servicePort="_QWjwICHdEe-p_Mfs11DzrQ"/>
+  <Services:ServicePort xmi:id="_QWjwICHdEe-p_Mfs11DzrQ" name="MoviesServicePortType" id="_QWamMCHdEe-p_Mfs11DzrQ" serviceOperation="_QWjwISHdEe-p_Mfs11DzrQ"/>
+  <Services:ServiceOperation xmi:id="_QWjwISHdEe-p_Mfs11DzrQ" label="MoviesServiceOperation-MoviesService" name="MoviesServiceOperation" id="_QWamMSHdEe-p_Mfs11DzrQ" referenceJobId="_a6nvUCHeEe-p_Mfs11DzrQ"/>
+</xmi:XMI>

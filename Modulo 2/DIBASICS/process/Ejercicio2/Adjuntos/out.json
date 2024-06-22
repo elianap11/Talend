@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "anio_creacion": 1973,
+            "nombre": "El exorcista"
+        },
+        {
+            "anio_creacion": 1980,
+            "nombre": "El resplandor"
+        },
+        {
+            "anio_creacion": 1968,
+            "nombre": "La noche de los muertos vivientes"
+        },
+        {
+            "anio_creacion": 1999,
+            "nombre": "El proyecto de la bruja de Blair"
+        },
+        {
+            "anio_creacion": 2007,
+            "nombre": "El orfanato"
+        }
+    ]
+}
